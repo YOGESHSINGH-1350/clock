@@ -1,0 +1,33 @@
+
+.container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.clock{
+    background-color: #ff7300;
+    padding: 10px;
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 8px;
+}
+.date{
+    margin-top: 30px;
+    background-color: #ff005d;
+    padding: 10px;
+    font-size: 45px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 8px;
+}
+.salogan{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    margin-top: 90px;
+    font-size: 80px;
+    background-color: #ff005d;
+}
