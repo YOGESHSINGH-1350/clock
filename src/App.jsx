@@ -7,7 +7,6 @@ function App() {
   
   return (
     <center>
-     
       <Clockslogan></Clockslogan>
       <Clock></Clock>
     </center>
